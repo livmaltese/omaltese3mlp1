@@ -24,3 +24,6 @@ SETUP:
 The following datasets were used:
 1- Red wine quality https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 2- Water Quality: https://www.kaggle.com/adityakadiwal/water-potability
+
+Code can be found in the following repository: https://github.com/livmaltese/omaltese3mlp1
+
